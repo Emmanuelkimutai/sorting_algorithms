@@ -8,3 +8,4 @@ Write a function that sorts an array of integers in ascending order using the Co
 Write a function that sorts an array of integers in ascending order using the merge sort algorithm
 Write a function that sorts an array of integers in ascending order using the Heap sort algorithm
 Write a function that sorts an array of integers in ascending order using the Radix sort algorithm
+Write a function that sorts an array of integers in ascending order using the Bitonic sort algorithm
