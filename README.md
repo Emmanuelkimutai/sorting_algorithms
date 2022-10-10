@@ -5,3 +5,4 @@ Write a function that sorts an array of integers in ascending order using the Qu
 Write a function that sorts an array of integers in ascending order using Shell sort algotithm, using the Knuth sequence
 Write a function that sorts a doubly linked list of integers in ascending order using the Cocktail shaker sort algorithm
 Write a function that sorts an array of integers in ascending order using the Counting sort algorithm
+Write a function that sorts an array of integers in ascending order using the merge sort algorithm
