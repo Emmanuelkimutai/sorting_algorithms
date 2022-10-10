@@ -7,3 +7,4 @@ Write a function that sorts a doubly linked list of integers in ascending order 
 Write a function that sorts an array of integers in ascending order using the Counting sort algorithm
 Write a function that sorts an array of integers in ascending order using the merge sort algorithm
 Write a function that sorts an array of integers in ascending order using the Heap sort algorithm
+Write a function that sorts an array of integers in ascending order using the Radix sort algorithm
