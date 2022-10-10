@@ -6,3 +6,4 @@ Write a function that sorts an array of integers in ascending order using Shell 
 Write a function that sorts a doubly linked list of integers in ascending order using the Cocktail shaker sort algorithm
 Write a function that sorts an array of integers in ascending order using the Counting sort algorithm
 Write a function that sorts an array of integers in ascending order using the merge sort algorithm
+Write a function that sorts an array of integers in ascending order using the Heap sort algorithm
