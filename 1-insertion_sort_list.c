@@ -26,10 +26,9 @@ void insertion_sort_list(listint_t **list)
 }
 
 /**
- * swap - swaps two nodes
+ * swap_node - swaps two nodes
  *
- * @head: the head node
- * @node1: The first node
+ * @node: The first node
  * @list: the node list
  *
  * Return: pointer to a node

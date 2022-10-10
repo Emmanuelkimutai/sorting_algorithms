@@ -16,7 +16,7 @@ void swap_ints(int *a, int *b)
 }
 
 /**
- * selction_sort - Function that sort an array of integers.
+ * selection_sort - Function that sort an array of integers.
  *
  * @size: size of the array
  * @array: list with numbers
