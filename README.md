@@ -10,3 +10,4 @@ Write a function that sorts an array of integers in ascending order using the He
 Write a function that sorts an array of integers in ascending order using the Radix sort algorithm
 Write a function that sorts an array of integers in ascending order using the Bitonic sort algorithm
 Write a function that sorts an array of integers in asceding order using the Quick sort algorithm
+Write a function that sorts a deck of cards
